@@ -1,0 +1,8 @@
+{
+  "versionCode": 24,
+  "versionName": "1.0.24",
+  "apk": "WiseTV-1.0.24.apk",
+  "sha256": "b2c64c4c9bdbe995fff5f01863e9053442d251dbbee1883d592825e79ad62140",
+  "size": 3297119,
+  "notes": "e2e: return to channel 1 after the connection-in-use step"
+}
